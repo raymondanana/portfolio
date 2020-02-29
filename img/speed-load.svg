@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.419" height="75" viewBox="0 0 92.419 75">
+  <g id="site-speed-page-loading" transform="translate(-369.779 -275)">
+    <path id="Path_31" data-name="Path 31" d="M338.384,1.191A3.806,3.806,0,0,0,335.7.056L250.962,0h-.009a3.844,3.844,0,0,0-3.806,3.816L247.1,71.128a3.872,3.872,0,0,0,3.816,3.816L335.656,75h.009a3.863,3.863,0,0,0,3.806-3.816l.047-67.312a3.806,3.806,0,0,0-1.134-2.681Zm-2.55,69.994c0,.056-.112.178-.169.178h0l-84.741-.056a.253.253,0,0,1-.169-.178l.028-57.309h85.087ZM334.325,6.9a2.156,2.156,0,0,1-2.156,2.156l-59.653-.038a2.156,2.156,0,0,1,0-4.313l59.653.037A2.156,2.156,0,0,1,334.325,6.9Zm-68.194-.084a1.462,1.462,0,1,1-1.463-1.463,1.463,1.463,0,0,1,1.463,1.463Zm-4.312,0a1.453,1.453,0,1,1-.426-1.037A1.463,1.463,0,0,1,261.819,6.816Zm-5.775-1.463a1.453,1.453,0,1,1-1.034.422,1.462,1.462,0,0,1,1.034-.422Z" transform="translate(122.679 275)" fill="#45a29e"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="53.8" height="13.716" rx="1" transform="translate(390.793 311.431)" fill="none" stroke="#45a29e" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Rectangle_13" data-name="Rectangle 13" d="M1,0H13.8a0,0,0,0,1,0,0V14.978a0,0,0,0,1,0,0H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(390.297 310.794)" fill="#45a29e"/>
+    <text id="Loading_" data-name="Loading…" transform="translate(409.061 320.656)" fill="#45a29e" font-size="6" font-family="Raleway-Bold, Raleway" font-weight="700"><tspan x="0" y="0">Loading…</tspan></text>
+  </g>
+</svg>
